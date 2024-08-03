@@ -5,6 +5,4 @@ Hi there! I’m Ashutosh Rathod, passionate about web development with a focus o
 ### Skills
 - **Frontend Development**: ReactJS, Tailwind CSS, HTML, CSS, JavaScript
 - **Backend Knowledge**: Basic understanding of Node.js and Express
-- **Tools**: Git, GitHub, npm, vscode,vite+react
-
- 
+- **Tools**: Git, GitHub, npm, Visual Studio Code (VSCode)
