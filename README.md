@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodashutoshsinghgovindsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rathodashutoshsinghgovindsingh" /> </p>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathodashutoshsinghgovindsingh&show_icons=true&theme=radical)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=rathodashutoshsinghgovindsingh&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 - 🌱 I’m currently learning **ReactJS, Tailwind CSS**
