@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS, Tailwind CSS**
+- 🌱 I’m currently learning **PYTHON FASTAPI **
 
 - 👨‍💻 All of my projects are available at [https://github.com/RATHODASHUTOSHSINGHGOVINDSINGH](https://github.com/RATHODASHUTOSHSINGHGOVINDSINGH)
 
